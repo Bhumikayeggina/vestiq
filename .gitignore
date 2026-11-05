@@ -1,0 +1,17 @@
+# data and downloads (too big for GitHub)
+*.csv
+*.tsv
+*.tgz
+*.tar.gz
+*.parquet
+# logs and local databases
+*.log
+nohup.out
+metastore_db/
+derby.log
+spark-warehouse/
+__pycache__/
+# secrets
+*.pem
+*.key
+.env
