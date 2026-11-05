@@ -1,0 +1,46 @@
+col_name	data_type	comment
+id                  	bigint              	                    
+name                	string              	                    
+seller              	string              	                    
+category            	string              	                    
+gender              	string              	                    
+price               	double              	                    
+mrp                 	double              	                    
+discount_pct        	double              	                    
+rating              	double              	                    
+rating_total        	bigint              	                    
+slug_text           	string              	                    
+purl                	string              	                    
+id	name	seller	category	gender	price	mrp	discount_pct	rating
+1	Men Solid Oversized Cotton	Difference of Opinion	tshirts	men	532.0	1299.0	59.0	4.1
+2	Men Cotton Pure Cotton T-shirt	Roadster	tshirts	men	274.0	499.0	45.1	4.2
+3	Women Pure Cotton T-shirt	DILLINGER	tshirts	women	551.0	1199.0	54.0	4.5
+4	Typography Print T-shirt	Huetrap	tshirts	men	296.0	1099.0	73.1	4.0
+5	Printed Round Neck Pure Cotton T-shirt	Roadster	tshirts	men	494.0	899.0	45.1	4.2
+6	Boys Pack of 5 T-shirt	HELLCAT	tshirts	boys	699.0	4995.0	86.0	4.1
+7	Polo Collar Cotton Pure Cotton T-shirt	Roadster	tshirts	men	449.0	899.0	50.1	4.1
+8	Boys Pack Of 5 Printed T-shirt	HELLCAT	tshirts	boys	699.0	4995.0	86.0	4.1
+9	Printed Pure Cotton T-shirt	HRX by Hrithik Roshan	tshirts	men	279.0	699.0	60.1	4.2
+10	Printed Round Neck Pure Cotton T-shirt	Roadster	tshirts	women	399.0	799.0	50.1	4.1
+name	seller	price	discount_pct	rating	rating_total
+Boys Printed T-shirt	BONKIDS	359.0	73.0	4.6	1200
+Men Printed Cotton T-shirt	VEIRDO	479.0	60.1	4.5	411
+Plus Size Pure Cotton T-shirt	Sztori	329.0	70.1	4.6	46
+Boys Printed Cotton T-Shirt	BONKIDS	293.0	78.0	4.5	53
+Boys Cotton T-Shirt	H&M	399.0	0.0	4.8	46
+Men Printed Cotton T-shirt	VEIRDO	479.0	60.1	4.5	411
+Women Pure Cotton T-shirt	H&M	449.0	25.0	4.5	382
+Boys Cotton T-Shirt	H&M	399.0	0.0	4.5	160
+Infant Boys Cotton T-shirt	Pantaloons Baby	299.0	0.0	4.6	165
+Cotton Oversized T-shirt	DILLINGER	437.0	27.0	4.5	136
+name	seller	price	mrp	discount_pct	rating_total
+Women CZ Temple Jewellery Set	Rubans	1350.0	4500.0	70.0	1200
+Set Of 20 Earrings	AMI	319.0	1995.0	84.0	6700
+Ninja Calling Pro Plus Watch	Fire-Boltt	1699.0	9999.0	83.0	1400
+15 Inch Laptop Overnighter-45L	Tommy Hilfiger	2999.0	10999.0	72.7	2200
+Unisex Lunar Backpack	Wildcraft	1199.0	3999.0	70.0	5300
+Boys Graphic Printed T-shirt	BonOrganik	291.0	1164.0	75.0	3400
+Boys Printed T-shirt	BONKIDS	359.0	1332.0	73.0	1200
+220 TC King Superfine Bedsheet with 2 Pillow Covers	DREAM WEAVERZ	475.0	2799.0	83.0	1100
+Boys Graphic Printed T-shirt	BonOrganik	291.0	1164.0	75.0	3400
+Set of 20 Earrings	AMI	367.0	2450.0	85.0	1400
