@@ -1,2 +1,0 @@
-products	brands	categories	avg_price	avg_discount	avg_rating
-1060213	5496	404	1536.0	40.3	1.06
