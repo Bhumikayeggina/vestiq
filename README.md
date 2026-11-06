@@ -10,7 +10,7 @@ Try: `simple traditional kurti for wedding under 1500`, `men cotton tshirt under
 ## What it does
 
 - Loads a 1.3 GB product catalogue into **HDFS** (replication 2 across two DataNodes).
-- Cleans it with **Spark on YARN**: multi-line quoted CSV, type casting, de-duplication, derived columns.
+- Cleans it with **Spark on YARN**: multi-line quoted CSV, type casting, invalid-row filtering, derived columns.
 - Mines the fashion vocabulary with **MapReduce** (Hadoop Streaming), computes brand and category statistics with **Pig**,
   and exposes the data as a **Hive** table.
 - Scores products with **Spark SQL** (Bayesian-adjusted rating plus popularity) and segments them with **Spark MLlib KMeans**.
