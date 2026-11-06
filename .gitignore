@@ -15,3 +15,7 @@ __pycache__/
 *.pem
 *.key
 .env
+.DS_Store
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+*.pyc

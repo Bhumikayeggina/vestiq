@@ -59,7 +59,11 @@ YARN limits per node: 2048 MB and 2 vCores. Configuration files are in [`cluster
 
 ## Key results
 
-TODO: replace this line with 4 or 5 real numbers (rows processed, top category, KMeans silhouette score, number of segments).
+- **1,060,213** cleaned products processed with Spark SQL on YARN
+- Largest category: **tshirts** (150,918 products, average price Rs 824)
+- **404** product categories analysed with Pig
+- KMeans segmentation: **6 segments**, silhouette score **0.58**
+- Most frequent description words (MapReduce): men, printed, cotton, women, shirt, blue, black, white
 
 ## Engineering notes
 
