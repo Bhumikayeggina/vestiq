@@ -3,7 +3,7 @@
 An end-to-end big data project: **1.06 million Myntra products (1.3 GB)** processed on a **3-node Hadoop cluster**
 with HDFS, YARN, MapReduce, Pig, Hive and Apache Spark, served through a natural-language search app.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app
+**Live demo:** [VESTIQ](https://vestiq.streamlit.app/)
 
 Try: `simple traditional kurti for wedding under 1500`, `men cotton tshirt under 500`, `cute party dress under 3000`.
 
